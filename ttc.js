@@ -1,6 +1,5 @@
 
 
-/*Author:Mahbubul Hasan Sakib*/
 
 
 var c = 1;
